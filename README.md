@@ -1,6 +1,6 @@
 # ML-project-StyleLens
 
-Overview
+## Overview
 
 StyleLens is a deep learning-based system that classifies fashion images into different clothing styles and recommends visually similar outfits. The model can be used initially for personal wardrobe organization, and extended to e-commerce as the next step.
 
