@@ -1,0 +1,10 @@
+torch
+torchvision
+numpy
+opencv-python
+faiss-cpu
+flask
+streamlit
+onnx
+onnx-tf
+tensorflow
