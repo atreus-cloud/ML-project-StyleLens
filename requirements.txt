@@ -8,3 +8,4 @@ streamlit
 onnx
 onnx-tf
 tensorflow
+tqdm
